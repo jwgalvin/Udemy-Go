@@ -12,4 +12,13 @@ all files must have the same package main at the top.  Package ties a project to
 types of packages  executable or reusable. The name defines if it executable.  Main mean executable. any other name would not execute.
 package main needs a func main()
 
+import libraries
+main
+    debug
+    math
+    fmt         standard library
+    encoding
+    crypto
+    io
+    external packages
 
